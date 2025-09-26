@@ -1,0 +1,168 @@
+[
+  {
+    "id": "t-01",
+    "type": "text",
+    "props": {
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "color": "red",
+      "textAlign": "center",
+      "paddingTop": 10,
+      "paddingRight": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10
+    },
+    "text": "标题文字",
+    "picture": [],
+    "pictureType": 0
+  },
+  {
+    "id": "t-02",
+    "type": "richText",
+    "props": {
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "color": "red",
+      "textAlign": "center",
+      "paddingTop": 10,
+      "paddingRight": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10
+    },
+    "text": "<p>你好，<strong>世界!</strong></p><p>hello world</p>",
+    "picture": [],
+    "pictureType": 0
+  },
+  {
+    "id": "t-03",
+    "type": "singleImage",
+    "props": {
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "color": "red",
+      "textAlign": "center",
+      "paddingTop": 10,
+      "paddingRight": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10
+    },
+    "text": "单张图片",
+    "picture": [
+      {
+        "id": "p-01",
+        "url": "https://picsum.photos/375/220?1",
+        "link": "#",
+        "title": "图片名称"
+      }
+    ],
+    "pictureType": 0
+  },
+  {
+    "id": "t-04",
+    "type": "multiImage",
+    "props": {
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "color": "red",
+      "textAlign": "center",
+      "paddingTop": 10,
+      "paddingRight": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10
+    },
+    "text": "多张图片",
+    "picture": [
+      {
+        "id": "p-02",
+        "url": "https://picsum.photos/375/220?2",
+        "link": "https://m.baidu.com/",
+        "title": "图片名称1"
+      },
+      {
+        "id": "p-03",
+        "url": "https://picsum.photos/375/220?3",
+        "link": "#",
+        "title": "图片名称2"
+      },
+      {
+        "id": "p-04",
+        "url": "https://picsum.photos/375/220?4",
+        "link": "#",
+        "title": "图片名称3"
+      }
+    ],
+    "pictureType": 1
+  },
+  {
+    "id": "t-05",
+    "type": "multiImage",
+    "props": {
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "color": "red",
+      "textAlign": "center",
+      "paddingTop": 10,
+      "paddingRight": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10
+    },
+    "text": "多张图片",
+    "picture": [
+      {
+        "id": "p-05",
+        "url": "https://picsum.photos/375/220?5",
+        "link": "#",
+        "title": "图片名称2"
+      },
+      {
+        "id": "p-06",
+        "url": "https://picsum.photos/375/220?6",
+        "link": "https://m.baidu.com/",
+        "title": "图片名称1"
+      },
+      {
+        "id": "p-07",
+        "url": "https://picsum.photos/375/220?7",
+        "link": "#",
+        "title": "图片名称3"
+      }
+    ],
+    "pictureType": 2
+  },
+  {
+    "id": "t-06",
+    "type": "multiImage",
+    "props": {
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "color": "red",
+      "textAlign": "center",
+      "paddingTop": 10,
+      "paddingRight": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10
+    },
+    "text": "多张图片",
+    "picture": [
+      {
+        "id": "p-08",
+        "url": "https://picsum.photos/375/220?8",
+        "link": "#",
+        "title": "图片名称3"
+      },
+      {
+        "id": "p-09",
+        "url": "https://picsum.photos/375/220?9",
+        "link": "https://m.baidu.com/",
+        "title": "图片名称1"
+      },
+      {
+        "id": "p-10",
+        "url": "https://picsum.photos/375/220?10",
+        "link": "#",
+        "title": "图片名称2"
+      }
+    ],
+    "pictureType": 3
+  }
+]
