@@ -1,0 +1,162 @@
+[
+  {
+    "category": "资源工具",
+    "color": "indigo",
+    "show": true,
+    "children": [
+      {
+        "icon": "fa-image",
+        "title": "壁纸分享",
+        "show": true,
+        "url": "/pages/wallpaper/index"
+      },
+      {
+        "icon": "fa-image",
+        "title": "头像分享",
+        "show": true,
+        "url": "/pages/avatar/index"
+      },
+      {
+        "icon": "fa-image",
+        "title": "职场牛马语录",
+        "show": true,
+        "url": "/pages/the-cow-and-the-horse/index"
+      },
+      {
+        "icon": "fa-file-pdf",
+        "title": "学习资源",
+        "show": false,
+        "url": "/pages/educational-materials/index"
+      },
+      {
+        "icon": "fa-gamepad",
+        "title": "限免游戏",
+        "show": true,
+        "url": "/pages/epic-free-games/index"
+      },
+      {
+        "icon": "fa-comments",
+        "title": "搞笑段子",
+        "show": true,
+        "url": "/pages/duanzi/index"
+      },
+      {
+        "icon": "fa-coffee",
+        "title": "今日KFC文案",
+        "show": false,
+        "url": "/pages/kfc/index"
+      },
+      {
+        "icon": "fa-book",
+        "title": "故事大全",
+        "show": false,
+        "url": "/pages/stories/index"
+      },
+      {
+        "icon": "fa-newspaper",
+        "title": "新闻",
+        "show": false,
+        "url": "/pages/news/index"
+      }
+    ]
+  },
+  {
+    "category": "图片工具",
+    "color": "green",
+    "show": true,
+    "children": [
+      {
+        "icon": "fa-table",
+        "title": "九宫格切图",
+        "show": true,
+        "url": "/pages/nine_square_grid/index"
+      },
+      {
+        "icon": "fa-th",
+        "title": "九宫格拼图",
+        "show": true,
+        "url": "/pages/magic_nine_square_grid/index"
+      },
+      {
+        "icon": "fa-align-justify",
+        "title": "多图拼长图",
+        "show": true,
+        "url": "/pages/long_image_compose/index"
+      },
+      {
+        "icon": "fa-file-image",
+        "title": "简单头像生成",
+        "show": true,
+        "url": "/pages/avatar_generator/index"
+      }
+    ]
+  },
+  {
+    "category": "文字工具",
+    "color": "yellow",
+    "show": true,
+    "children": [
+      {
+        "icon": "fa-fighter-jet",
+        "title": "翅膀昵称",
+        "show": true,
+        "url": "/pages/wing_nickname/index"
+      },
+      {
+        "icon": "fa-asterisk",
+        "title": "花体英文",
+        "show": true,
+        "url": "/pages/english_character_conversion/index"
+      }
+    ]
+  },
+  {
+    "category": "答题工具",
+    "color": "red",
+    "show": true,
+    "children": [
+      {
+        "icon": "fa-fighter-jet",
+        "title": "成语填空",
+        "show": true,
+        "url": "/pages/idioms_game/index"
+      },
+      {
+        "icon": "fa-question-circle",
+        "title": "猜谜语",
+        "show": true,
+        "url": "/pages/riddle_game/index"
+      },
+      {
+        "icon": "fa-search",
+        "title": "文字找茬",
+        "show": true,
+        "url": "/pages/find_diff_word/index"
+      },
+      {
+        "icon": "fa-car",
+        "title": "猜车标",
+        "show": true,
+        "url": "/pages/car_logo_quiz/index"
+      }
+    ]
+  },
+  {
+    "category": "效率工具",
+    "show": true,
+    "children": [
+      {
+        "icon": "fa-calculator",
+        "title": "BMI计算器",
+        "show": true,
+        "url": "/pages/bmi_calculator/index"
+      },
+      {
+        "icon": "fa-calculator",
+        "title": "饮水计算器",
+        "show": true,
+        "url": "/pages/drink_water_calculator/index"
+      }
+    ]
+  }
+]
