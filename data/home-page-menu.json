@@ -59,7 +59,7 @@
         "url": "/pages/news/index"
       },
       {
-        "icon": "fa-file",
+        "icon": "fa-book",
         "title": "美味食谱",
         "show": false,
         "url": "/pages/cook/index"
