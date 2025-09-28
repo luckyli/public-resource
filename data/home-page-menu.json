@@ -60,7 +60,7 @@
       },
       {
         "icon": "fa-book",
-        "title": "美味食谱",
+        "title": "食谱大全",
         "show": false,
         "url": "/pages/cook/index"
       }
