@@ -57,6 +57,12 @@
         "title": "新闻",
         "show": false,
         "url": "/pages/news/index"
+      },
+      {
+        "icon": "fa-file",
+        "title": "美味食谱",
+        "show": false,
+        "url": "/pages/cook/index"
       }
     ]
   },
