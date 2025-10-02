@@ -94,6 +94,12 @@
         "title": "简单头像生成",
         "show": true,
         "url": "/pages/avatar_generator/index"
+      },
+      {
+        "icon": "fa-file-image",
+        "title": "图片压缩",
+        "show": false,
+        "url": "/pages/photo-compressor/index"
       }
     ]
   },
