@@ -98,7 +98,7 @@
       {
         "icon": "fa-file-image",
         "title": "图片压缩",
-        "show": false,
+        "show": true,
         "url": "/pages/photo-compressor/index"
       }
     ]
