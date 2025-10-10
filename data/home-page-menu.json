@@ -154,7 +154,7 @@
       {
         "icon": "fa-font",
         "title": "猜单词",
-        "show": false,
+        "show": true,
         "url": "/pages/english_vocab_quizzes/index"
       }
     ]
