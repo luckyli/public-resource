@@ -128,7 +128,7 @@
     "show": true,
     "children": [
       {
-        "icon": "fa-fighter-jet",
+        "icon": "fa-book",
         "title": "成语填空",
         "show": true,
         "url": "/pages/idioms_game/index"
