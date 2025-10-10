@@ -152,7 +152,7 @@
         "url": "/pages/car_logo_quiz/index"
       },
       {
-        "icon": "fa-etsy",
+        "icon": "fa-font",
         "title": "猜单词",
         "show": false,
         "url": "/pages/english_vocab_quizzes/index"
