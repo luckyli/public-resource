@@ -20,19 +20,19 @@
         "icon": "fa-image",
         "title": "职场牛马语录",
         "show": true,
-        "url": "/pages/the-cow-and-the-horse/index"
+        "url": "/pages/the_cow_and_the_horse/index"
       },
       {
         "icon": "fa-file-pdf",
         "title": "学习资源",
         "show": false,
-        "url": "/pages/educational-materials/index"
+        "url": "/pages/educational_materials/index"
       },
       {
         "icon": "fa-gamepad",
         "title": "限免游戏",
         "show": true,
-        "url": "/pages/epic-free-games/index"
+        "url": "/pages/epic_free_games/index"
       },
       {
         "icon": "fa-comments",
@@ -99,7 +99,7 @@
         "icon": "fa-file-image",
         "title": "图片压缩",
         "show": true,
-        "url": "/pages/photo-compressor/index"
+        "url": "/pages/photo_compressor/index"
       }
     ]
   },
