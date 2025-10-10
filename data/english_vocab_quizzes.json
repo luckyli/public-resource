@@ -184,5 +184,67 @@
       "answer": "消失；不见",
       "options": ["消失；不见", "出现；显现", "存在；留存", "隐藏；躲藏"]
     }
+  ],
+  [
+    {
+      "question": "wander",
+      "americanPhonetic": "/ˈwɑːndər/",
+      "answer": "漫游；闲逛",
+      "options": ["漫游；闲逛", "奔跑；冲刺", "停留；等待", "快速；迅速"]
+    },
+    {
+      "question": "yield",
+      "americanPhonetic": "/jiːld/",
+      "answer": "屈服；产生",
+      "options": ["屈服；产生", "抵抗；反抗", "破坏；损坏", "保护；守护"]
+    },
+    {
+      "question": "absorb",
+      "americanPhonetic": "/əbˈzɔːrb/",
+      "answer": "吸收；理解",
+      "options": ["吸收；理解", "释放；排出", "拒绝；排斥", "忽视；不理"]
+    },
+    {
+      "question": "bother",
+      "americanPhonetic": "/ˈbɑːðər/",
+      "answer": "打扰；麻烦",
+      "options": ["打扰；麻烦", "帮助；协助", "支持；拥护", "鼓励；激励"]
+    },
+    {
+      "question": "clarify",
+      "americanPhonetic": "/ˈklærəfaɪ/",
+      "answer": "澄清；阐明",
+      "options": ["澄清；阐明", "混淆；弄混", "隐藏；隐瞒", "忘记；遗忘"]
+    },
+    {
+      "question": "deny",
+      "americanPhonetic": "/dɪˈnaɪ/",
+      "answer": "否认；拒绝",
+      "options": ["否认；拒绝", "承认；认可", "同意；答应", "接受；接纳"]
+    },
+    {
+      "question": "escape",
+      "americanPhonetic": "/ɪˈskeɪp/",
+      "answer": "逃跑；逃脱",
+      "options": ["逃跑；逃脱", "抓住；捕获", "等待；等候", "跟随；追随"]
+    },
+    {
+      "question": "fetch",
+      "americanPhonetic": "/fetʃ/",
+      "answer": "去取；拿来",
+      "options": ["去取；拿来", "丢弃；扔掉", "保存；储存", "展示；呈现"]
+    },
+    {
+      "question": "grasp",
+      "americanPhonetic": "/ɡræsp/",
+      "answer": "抓住；理解",
+      "options": ["抓住；理解", "放开；松开", "误解；误会", "忽视；忽略"]
+    },
+    {
+      "question": "hire",
+      "americanPhonetic": "/haɪər/",
+      "answer": "雇佣；租用",
+      "options": ["雇佣；租用", "解雇；开除", "购买；买下", "出售；卖出"]
+    }
   ]
 ]
