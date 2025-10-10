@@ -150,6 +150,12 @@
         "title": "猜车标",
         "show": true,
         "url": "/pages/car_logo_quiz/index"
+      },
+      {
+        "icon": "fa-car",
+        "title": "猜单词",
+        "show": false,
+        "url": "/pages/english_vocab_quizzes/index"
       }
     ]
   },
