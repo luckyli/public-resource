@@ -63,6 +63,12 @@
         "title": "食谱大全",
         "show": false,
         "url": "/pages/cook/index"
+      },
+      {
+        "icon": "fa-book",
+        "title": "唐诗三百首",
+        "show": false,
+        "url": "/pages/three_hundred_tang_poems/index"
       }
     ]
   },
