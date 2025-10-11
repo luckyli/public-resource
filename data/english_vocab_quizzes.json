@@ -246,5 +246,997 @@
       "answer": "雇佣；租用",
       "options": ["雇佣；租用", "解雇；开除", "购买；买下", "出售；卖出"]
     }
+  ],
+  [
+    {
+      "question": "injure",
+      "americanPhonetic": "/ˈɪndʒər/",
+      "answer": "伤害；使受伤",
+      "options": ["伤害；使受伤", "保护；守护", "帮助；协助", "照顾；照料"]
+    },
+    {
+      "question": "judge",
+      "americanPhonetic": "/dʒʌdʒ/",
+      "answer": "判断；评判",
+      "options": ["判断；评判", "猜测；推测", "怀疑；质疑", "相信；信任"]
+    },
+    {
+      "question": "kneel",
+      "americanPhonetic": "/niːl/",
+      "answer": "跪下；屈膝",
+      "options": ["跪下；屈膝", "站起；直立", "跳跃；蹦跳", "行走；步行"]
+    },
+    {
+      "question": "label",
+      "americanPhonetic": "/ˈleɪbl/",
+      "answer": "标签；标记",
+      "options": ["标签；标记", "盒子；箱子", "袋子；包裹", "瓶子；容器"]
+    },
+    {
+      "question": "major",
+      "americanPhonetic": "/ˈmeɪdʒər/",
+      "answer": "主要的；重要的",
+      "options": ["主要的；重要的", "次要的；微小的", "普通的；平常的", "特殊的；特别的"]
+    },
+    {
+      "question": "narrow",
+      "americanPhonetic": "/ˈnæroʊ/",
+      "answer": "狭窄的；狭小的",
+      "options": ["狭窄的；狭小的", "宽阔的；宽广的", "高大的；魁梧的", "矮小的；瘦弱的"]
+    },
+    {
+      "question": "occur",
+      "americanPhonetic": "/əˈkɜːr/",
+      "answer": "发生；出现",
+      "options": ["发生；出现", "消失；不见", "开始；启动", "结束；终止"]
+    },
+    {
+      "question": "pardon",
+      "americanPhonetic": "/ˈpɑːrdn/",
+      "answer": "原谅；宽恕",
+      "options": ["原谅；宽恕", "责怪；责备", "惩罚；处罚", "批评；指责"]
+    },
+    {
+      "question": "quarrel",
+      "americanPhonetic": "/ˈkwɑːrəl/",
+      "answer": "争吵；吵架",
+      "options": ["争吵；吵架", "交谈；聊天", "讨论；商议", "倾听；聆听"]
+    },
+    {
+      "question": "react",
+      "americanPhonetic": "/riˈækt/",
+      "answer": "反应；回应",
+      "options": ["反应；回应", "思考；思索", "计划；规划", "行动；执行"]
+    }
+  ],
+  [
+    {
+      "question": "sacrifice",
+      "americanPhonetic": "/ˈsækrɪfaɪ/",
+      "answer": "牺牲；奉献",
+      "options": ["牺牲；奉献", "获取；得到", "保存；保留", "浪费；挥霍"]
+    },
+    {
+      "question": "threaten",
+      "americanPhonetic": "/ˈθretn/",
+      "answer": "威胁；恐吓",
+      "options": ["威胁；恐吓", "保护；保卫", "安慰；安抚", "鼓励；激励"]
+    },
+    {
+      "question": "unite",
+      "americanPhonetic": "/juˈnaɪt/",
+      "answer": "联合；团结",
+      "options": ["联合；团结", "分裂；分开", "对抗；反对", "忽视；不理"]
+    },
+    {
+      "question": "vary",
+      "americanPhonetic": "/ˈveri/",
+      "answer": "变化；改变",
+      "options": ["变化；改变", "保持；维持", "固定；稳定", "重复；循环"]
+    },
+    {
+      "question": "warn",
+      "americanPhonetic": "/wɔːrn/",
+      "answer": "警告；提醒",
+      "options": ["警告；提醒", "表扬；赞扬", "隐瞒；掩盖", "欺骗；误导"]
+    },
+    {
+      "question": "aim",
+      "americanPhonetic": "/eɪm/",
+      "answer": "目标；旨在",
+      "options": ["目标；旨在", "结果；结局", "原因；理由", "过程；步骤"]
+    },
+    {
+      "question": "benefit",
+      "americanPhonetic": "/ˈbenɪfɪt/",
+      "answer": "益处；受益",
+      "options": ["益处；受益", "伤害；损害", "损失；亏损", "风险；危险"]
+    },
+    {
+      "question": "conclude",
+      "americanPhonetic": "/kənˈkluːd/",
+      "answer": "得出结论；结束",
+      "options": ["得出结论；结束", "开始；启动", "犹豫；迟疑", "暂停；中断"]
+    },
+    {
+      "question": "decline",
+      "americanPhonetic": "/dɪˈklaɪn/",
+      "answer": "下降；拒绝",
+      "options": ["下降；拒绝", "上升；提高", "接受；同意", "维持；保持"]
+    },
+    {
+      "question": "equal",
+      "americanPhonetic": "/ˈiːkwəl/",
+      "answer": "平等的；相等的",
+      "options": ["平等的；相等的", "不等的；差异的", "更高的；更好的", "更低的；更差的"]
+    }
+  ],
+  [
+    {
+      "question": "independent",
+      "americanPhonetic": "/ˌɪndɪˈpendənt/",
+      "answer": "独立的；自主的",
+      "options": ["独立的；自主的", "依赖的；依靠的", "合作的；协作的", "服从的；顺从的"]
+    },
+    {
+      "question": "justify",
+      "americanPhonetic": "/ˈdʒʌstɪfaɪ/",
+      "answer": "证明… 正当；为… 辩护",
+      "options": ["证明… 正当；为… 辩护", "否认… 合理；反驳", "忽视… 存在；忽略", "怀疑… 真实性；质疑"]
+    },
+    {
+      "question": "launch",
+      "americanPhonetic": "/lɔːntʃ/",
+      "answer": "发起；发射",
+      "options": ["发起；发射", "结束；终止", "暂停；中断", "隐藏；藏匿"]
+    },
+    {
+      "question": "mercy",
+      "americanPhonetic": "/ˈmɜːrsi/",
+      "answer": "仁慈；宽容",
+      "options": ["仁慈；宽容", "残忍；冷酷", "愤怒；气愤", "喜悦；快乐"]
+    },
+    {
+      "question": "neglect",
+      "americanPhonetic": "/nɪˈɡlekt/",
+      "answer": "忽视；忽略",
+      "options": ["忽视；忽略", "重视；关注", "保护；守护", "帮助；协助"]
+    },
+    {
+      "question": "obtain",
+      "americanPhonetic": "/əbˈteɪn/",
+      "answer": "获得；得到",
+      "options": ["获得；得到", "失去；丢失", "放弃；舍弃", "赠送；给予"]
+    },
+    {
+      "question": "persuade",
+      "americanPhonetic": "/pərˈsweɪd/",
+      "answer": "说服；劝说",
+      "options": ["说服；劝说", "拒绝；抵制", "反对；抗议", "忽视；不理"]
+    },
+    {
+      "question": "qualify",
+      "americanPhonetic": "/ˈkwɑːlɪfaɪ/",
+      "answer": "使具有资格；合格",
+      "options": ["使具有资格；合格", "使失去资格；不合格", "使提高水平；升级", "使降低标准；降级"]
+    },
+    {
+      "question": "react",
+      "americanPhonetic": "/riˈækt/",
+      "answer": "反应；回应",
+      "options": ["反应；回应", "沉默；不回应", "思考；思索", "计划；规划"]
+    },
+    {
+      "question": "satisfy",
+      "americanPhonetic": "/ˈsætɪsfaɪ/",
+      "answer": "使满意；满足",
+      "options": ["使满意；满足", "使失望；不满", "使愤怒；气愤", "使惊讶；震惊"]
+    }
+  ],
+  [
+    {
+      "question": "tolerate",
+      "americanPhonetic": "/ˈtɑːləreɪt/",
+      "answer": "容忍；忍受",
+      "options": ["容忍；忍受", "拒绝；抵制", "接受；接纳", "忽视；不理"]
+    },
+    {
+      "question": "uncover",
+      "americanPhonetic": "/ʌnˈkʌvər/",
+      "answer": "发现；揭露",
+      "options": ["发现；揭露", "隐藏；掩盖", "保存；保留", "丢弃；扔掉"]
+    },
+    {
+      "question": "vast",
+      "americanPhonetic": "/væst/",
+      "answer": "广阔的；巨大的",
+      "options": ["广阔的；巨大的", "狭窄的；细小的", "短暂的；临时的", "长久的；持久的"]
+    },
+    {
+      "question": "withdraw",
+      "americanPhonetic": "/wɪðˈdrɔː/",
+      "answer": "撤回；退出",
+      "options": ["撤回；退出", "加入；参与", "坚持；维持", "放弃；舍弃"]
+    },
+    {
+      "question": "accuse",
+      "americanPhonetic": "/əˈkjuːz/",
+      "answer": "指责；控告",
+      "options": ["指责；控告", "表扬；赞扬", "原谅；宽恕", "安慰；安抚"]
+    },
+    {
+      "question": "balance",
+      "americanPhonetic": "/ˈbæləns/",
+      "answer": "平衡；均衡",
+      "options": ["平衡；均衡", "倾斜；倾倒", "稳定；固定", "摇晃；摆动"]
+    },
+    {
+      "question": "convey",
+      "americanPhonetic": "/kənˈveɪ/",
+      "answer": "传达；传递",
+      "options": ["传达；传递", "接收；接纳", "隐藏；隐瞒", "遗忘；忘记"]
+    },
+    {
+      "question": "depend",
+      "americanPhonetic": "/dɪˈpend/",
+      "answer": "依靠；依赖",
+      "options": ["依靠；依赖", "独立；自主", "帮助；协助", "支持；拥护"]
+    },
+    {
+      "question": "equip",
+      "americanPhonetic": "/ɪˈkwɪp/",
+      "answer": "装备；配备",
+      "options": ["装备；配备", "拆卸；拆解", "购买；购置", "出售；售卖"]
+    },
+    {
+      "question": "fancy",
+      "americanPhonetic": "/ˈfænsi/",
+      "answer": "想象；喜爱",
+      "options": ["想象；喜爱", "忘记；遗忘", "讨厌；厌恶", "忽视；忽略"]
+    }
+  ],
+  [
+    {
+      "question": "grateful",
+      "americanPhonetic": "/ˈɡreɪtfl/",
+      "answer": "感激的；感谢的",
+      "options": ["感激的；感谢的", "抱怨的；埋怨的", "忽视的；不理的", "指责的；批评的"]
+    },
+    {
+      "question": "inform",
+      "americanPhonetic": "/ɪnˈfɔːrm/",
+      "answer": "通知；告知",
+      "options": ["通知；告知", "隐瞒；隐藏", "忘记；遗忘", "误解；误会"]
+    },
+    {
+      "question": "journey",
+      "americanPhonetic": "/ˈdʒɜːrni/",
+      "answer": "旅行；行程",
+      "options": ["旅行；行程", "停留；逗留", "休息；放松", "工作；劳动"]
+    },
+    {
+      "question": "knot",
+      "americanPhonetic": "/nɑːt/",
+      "answer": "结；打结",
+      "options": ["结；打结", "解开；拆开", "折叠；对折", "剪切；剪断"]
+    },
+    {
+      "question": "loose",
+      "americanPhonetic": "/luːs/",
+      "answer": "松的；松散的",
+      "options": ["松的；松散的", "紧的；紧绷的", "硬的；坚硬的", "软的；柔软的"]
+    },
+    {
+      "question": "melt",
+      "americanPhonetic": "/melt/",
+      "answer": "融化；熔化",
+      "options": ["融化；熔化", "冻结；结冰", "凝固；变硬", "破碎；裂开"]
+    },
+    {
+      "question": "nourish",
+      "americanPhonetic": "/ˈnɜːrɪʃ/",
+      "answer": "滋养；养育",
+      "options": ["滋养；养育", "消耗；耗费", "浪费；挥霍", "破坏；损坏"]
+    },
+    {
+      "question": "observe",
+      "americanPhonetic": "/əbˈzɜːrv/",
+      "answer": "观察；遵守",
+      "options": ["观察；遵守", "忽视；无视", "违反；违背", "忘记；遗忘"]
+    },
+    {
+      "question": "pour",
+      "americanPhonetic": "/pɔːr/",
+      "answer": "倒；灌",
+      "options": ["倒；灌", "装；填", "封；密封", "取；拿"]
+    },
+    {
+      "question": "quit",
+      "americanPhonetic": "/kwɪt/",
+      "answer": "放弃；离开",
+      "options": ["放弃；离开", "坚持；继续", "加入；参与", "停留；留下"]
+    }
+  ],
+  [
+    {
+      "question": "rare",
+      "americanPhonetic": "/rer/",
+      "answer": "罕见的；稀有的",
+      "options": ["罕见的；稀有的", "常见的；普遍的", "普通的；平常的", "频繁的；经常的"]
+    },
+    {
+      "question": "secure",
+      "americanPhonetic": "/səˈkjʊr/",
+      "answer": "安全的；稳固的",
+      "options": ["安全的；稳固的", "危险的；危急的", "松散的；不牢固的", "脆弱的；易损的"]
+    },
+    {
+      "question": "temporary",
+      "americanPhonetic": "/ˈtempəreri/",
+      "answer": "临时的；暂时的",
+      "options": ["临时的；暂时的", "永久的；长久的", "固定的；稳定的", "长期的；持久的"]
+    },
+    {
+      "question": "urgent",
+      "americanPhonetic": "/ˈɜːrdʒənt/",
+      "answer": "紧急的；紧迫的",
+      "options": ["紧急的；紧迫的", "缓慢的；迟缓的", "悠闲的；轻松的", "拖延的；推迟的"]
+    },
+    {
+      "question": "aware",
+      "americanPhonetic": "/əˈwer/",
+      "answer": "意识到的；知道的",
+      "options": ["意识到的；知道的", "无知的；未察觉的", "忘记的；遗忘的", "忽略的；忽视的"]
+    },
+    {
+      "question": "bargain",
+      "americanPhonetic": "/ˈbɑːrɡən/",
+      "answer": "讨价还价；便宜货",
+      "options": ["讨价还价；便宜货", "高价购买；奢侈品", "随意赠送；免费品", "盲目消费；浪费品"]
+    },
+    {
+      "question": "courage",
+      "americanPhonetic": "/ˈkɜːrɪdʒ/",
+      "answer": "勇气；胆量",
+      "options": ["勇气；胆量", "恐惧；害怕", "犹豫；迟疑", "懦弱；胆怯"]
+    },
+    {
+      "question": "defeat",
+      "americanPhonetic": "/dɪˈfiːt/",
+      "answer": "击败；战胜",
+      "options": ["击败；战胜", "失败；失利", "投降；屈服", "撤退；后退"]
+    },
+    {
+      "question": "effort",
+      "americanPhonetic": "/ˈefərt/",
+      "answer": "努力；尽力",
+      "options": ["努力；尽力", "懈怠；懒惰", "放弃；舍弃", "敷衍；应付"]
+    },
+    {
+      "question": "fault",
+      "americanPhonetic": "/fɔːlt/",
+      "answer": "过错；缺点",
+      "options": ["过错；缺点", "优点；长处", "成就；功绩", "贡献；付出"]
+    }
+  ],
+  [
+    {
+      "question": "gather",
+      "americanPhonetic": "/ˈɡæðər/",
+      "answer": "聚集；收集",
+      "options": ["聚集；收集", "分散；散开", "丢弃；扔掉", "保存；储存"]
+    },
+    {
+      "question": "harbor",
+      "americanPhonetic": "/ˈhɑːrbər/",
+      "answer": "庇护；怀有",
+      "options": ["庇护；怀有", "拒绝；排斥", "暴露；显露", "消除；去除"]
+    },
+    {
+      "question": "imply",
+      "americanPhonetic": "/ɪmˈplaɪ/",
+      "answer": "暗示；意味着",
+      "options": ["暗示；意味着", "直接；明说", "否认；拒绝", "遗忘；忘记"]
+    },
+    {
+      "question": "leak",
+      "americanPhonetic": "/liːk/",
+      "answer": "泄露；渗漏",
+      "options": ["泄露；渗漏", "密封；堵住", "隐藏；隐瞒", "保护；守护"]
+    },
+    {
+      "question": "mend",
+      "americanPhonetic": "/mend/",
+      "answer": "修理；修补",
+      "options": ["修理；修补", "破坏；损坏", "丢弃；抛弃", "购买；购置"]
+    },
+    {
+      "question": "novel",
+      "americanPhonetic": "/ˈnɑːvl/",
+      "answer": "新颖的；新奇的",
+      "options": ["新颖的；新奇的", "普通的；平常的", "陈旧的；过时的", "常见的；普遍的"]
+    },
+    {
+      "question": "oppose",
+      "americanPhonetic": "/əˈpoʊz/",
+      "answer": "反对；反抗",
+      "options": ["反对；反抗", "支持；拥护", "同意；认可", "服从；顺从"]
+    },
+    {
+      "question": "persist",
+      "americanPhonetic": "/pərˈsɪst/",
+      "answer": "坚持；持续",
+      "options": ["坚持；持续", "放弃；停止", "犹豫；迟疑", "中断；暂停"]
+    },
+    {
+      "question": "quote",
+      "americanPhonetic": "/kwoʊt/",
+      "answer": "引用；引述",
+      "options": ["引用；引述", "创造；发明", "删除；去掉", "修改；改动"]
+    },
+    {
+      "question": "remark",
+      "americanPhonetic": "/rɪˈmɑːrk/",
+      "answer": "评论；谈论",
+      "options": ["评论；谈论", "倾听；聆听", "沉默；不说话", "思考；思索"]
+    }
+  ],
+  [
+    {
+      "question": "scatter",
+      "americanPhonetic": "/ˈskætər/",
+      "answer": "分散；散开",
+      "options": ["分散；散开", "聚集；集合", "固定；稳定", "隐藏；躲藏"]
+    },
+    {
+      "question": "tremble",
+      "americanPhonetic": "/ˈtrembl/",
+      "answer": "颤抖；发抖",
+      "options": ["颤抖；发抖", "平静；镇定", "坚强；坚定", "放松；舒缓"]
+    },
+    {
+      "question": "unfold",
+      "americanPhonetic": "/ʌnˈfoʊld/",
+      "answer": "展开；呈现",
+      "options": ["展开；呈现", "折叠；收拢", "包裹；包装", "隐藏；掩盖"]
+    },
+    {
+      "question": "venture",
+      "americanPhonetic": "/ˈventʃər/",
+      "answer": "冒险；尝试",
+      "options": ["冒险；尝试", "谨慎；小心", "退缩；逃避", "放弃；舍弃"]
+    },
+    {
+      "question": "absent",
+      "americanPhonetic": "/ˈæbsənt/",
+      "answer": "缺席的；不在的",
+      "options": ["缺席的；不在的", "出席的；在场的", "迟到的；晚到的", "早退的；提前走的"]
+    },
+    {
+      "question": "bless",
+      "americanPhonetic": "/bles/",
+      "answer": "祝福；保佑",
+      "options": ["祝福；保佑", "诅咒；咒骂", "批评；指责", "忽视；不理"]
+    },
+    {
+      "question": "complain",
+      "americanPhonetic": "/kəmˈpleɪn/",
+      "answer": "抱怨；诉苦",
+      "options": ["抱怨；诉苦", "满意；满足", "感谢；感激", "理解；体谅"]
+    },
+    {
+      "question": "drown",
+      "americanPhonetic": "/draʊn/",
+      "answer": "淹没；溺水",
+      "options": ["淹没；溺水", "漂浮；浮起", "干燥；烘干", "净化；过滤"]
+    },
+    {
+      "question": "evolve",
+      "americanPhonetic": "/ɪˈvɑːlv/",
+      "answer": "演变；进化",
+      "options": ["演变；进化", "停滞；不变", "倒退；退化", "复制；模仿"]
+    },
+    {
+      "question": "frown",
+      "americanPhonetic": "/fraʊn/",
+      "answer": "皱眉；不满",
+      "options": ["皱眉；不满", "微笑；开心", "点头；同意", "挥手；告别"]
+    }
+  ],
+  [
+    {
+      "question": "glance",
+      "americanPhonetic": "/ɡlæns/",
+      "answer": "瞥一眼；匆匆一看",
+      "options": ["瞥一眼；匆匆一看", "凝视；注视", "观察；查看", "欣赏；观赏"]
+    },
+    {
+      "question": "hunt",
+      "americanPhonetic": "/hʌnt/",
+      "answer": "寻找；狩猎",
+      "options": ["寻找；狩猎", "隐藏；躲藏", "保护；守护", "放弃；舍弃"]
+    },
+    {
+      "question": "inspire",
+      "americanPhonetic": "/ɪnˈspaɪər/",
+      "answer": "激励；启发",
+      "options": ["激励；启发", "打击；挫伤", "忽视；不理", "误解；误会"]
+    },
+    {
+      "question": "jog",
+      "americanPhonetic": "/dʒɑːɡ/",
+      "answer": "慢跑；轻推",
+      "options": ["慢跑；轻推", "快跑；冲刺", "行走；步行", "跳跃；蹦跳"]
+    },
+    {
+      "question": "kick",
+      "americanPhonetic": "/kɪk/",
+      "answer": "踢；踹",
+      "options": ["踢；踹", "推；搡", "拉；拽", "抱；搂"]
+    },
+    {
+      "question": "loyal",
+      "americanPhonetic": "/ˈlɔɪəl/",
+      "answer": "忠诚的；忠心的",
+      "options": ["忠诚的；忠心的", "背叛的；不忠的", "冷漠的；冷淡的", "自私的；利己的"]
+    },
+    {
+      "question": "mourn",
+      "americanPhonetic": "/mɔːrn/",
+      "answer": "哀悼；忧伤",
+      "options": ["哀悼；忧伤", "庆祝；庆贺", "开心；快乐", "兴奋；激动"]
+    },
+    {
+      "question": "pant",
+      "americanPhonetic": "/pænt/",
+      "answer": "喘气；喘息",
+      "options": ["喘气；喘息", "平稳呼吸", "深呼吸", "憋气；屏息"]
+    },
+    {
+      "question": "reward",
+      "americanPhonetic": "/rɪˈwɔːrd/",
+      "answer": "奖励；回报",
+      "options": ["奖励；回报", "惩罚；处罚", "批评；指责", "警告；提醒"]
+    },
+    {
+      "question": "sigh",
+      "americanPhonetic": "/saɪ/",
+      "answer": "叹气；叹息",
+      "options": ["叹气；叹息", "大笑；欢笑", "呼喊；大叫", "低语；呢喃"]
+    }
+  ],
+  [
+    {
+      "question": "tame",
+      "americanPhonetic": "/teɪm/",
+      "answer": "驯服的；温顺的",
+      "options": ["驯服的；温顺的", "野生的；凶猛的", "强壮的；有力的", "弱小的；纤细的"]
+    },
+    {
+      "question": "unload",
+      "americanPhonetic": "/ˌʌnˈloʊd/",
+      "answer": "卸货；卸下",
+      "options": ["卸货；卸下", "装货；装载", "运输；运送", "储存；存放"]
+    },
+    {
+      "question": "vibrate",
+      "americanPhonetic": "/ˈvaɪbreɪt/",
+      "answer": "振动；颤动",
+      "options": ["振动；颤动", "静止；不动", "漂浮；悬浮", "下沉；沉没"]
+    },
+    {
+      "question": "weld",
+      "americanPhonetic": "/weld/",
+      "answer": "焊接；连接",
+      "options": ["焊接；连接", "切割；分割", "打磨；抛光", "敲打；捶打"]
+    },
+    {
+      "question": "accustom",
+      "americanPhonetic": "/əˈkʌstəm/",
+      "answer": "使习惯；使适应",
+      "options": ["使习惯；使适应", "使陌生；使不适", "使喜欢；使偏爱", "使讨厌；使反感"]
+    },
+    {
+      "question": "bribe",
+      "americanPhonetic": "/braɪb/",
+      "answer": "贿赂；收买",
+      "options": ["贿赂；收买", "奖励；奖赏", "惩罚；处罚", "提醒；告诫"]
+    },
+    {
+      "question": "crawl",
+      "americanPhonetic": "/krɔːl/",
+      "answer": "爬行；匍匐前进",
+      "options": ["爬行；匍匐前进", "行走；步行", "奔跑；快跑", "跳跃；蹦跳"]
+    },
+    {
+      "question": "dazzle",
+      "americanPhonetic": "/ˈdæzl/",
+      "answer": "使眼花；使赞叹",
+      "options": ["使眼花；使赞叹", "使清醒；使明白", "使困惑；使迷茫", "使平静；使镇定"]
+    },
+    {
+      "question": "echo",
+      "americanPhonetic": "/ˈekoʊ/",
+      "answer": "回声；回响",
+      "options": ["回声；回响", "噪音；杂音", "静音；无声", "音乐；乐曲"]
+    },
+    {
+      "question": "flicker",
+      "americanPhonetic": "/ˈflɪkər/",
+      "answer": "闪烁；摇曳",
+      "options": ["闪烁；摇曳", "明亮；耀眼", "熄灭；熄灭", "温暖；暖和"]
+    }
+  ],
+  [
+    {
+      "question": "gasp",
+      "americanPhonetic": "/ɡæsp/",
+      "answer": "喘气；倒抽气",
+      "options": ["喘气；倒抽气", "平稳呼吸", "深呼吸", "憋气；屏息"]
+    },
+    {
+      "question": "hover",
+      "americanPhonetic": "/ˈhʌvər/",
+      "answer": "盘旋；徘徊",
+      "options": ["盘旋；徘徊", "快速飞行", "降落；着陆", "起飞；升空"]
+    },
+    {
+      "question": "illustrate",
+      "americanPhonetic": "/ˈɪləstreɪt/",
+      "answer": "说明；阐明",
+      "options": ["说明；阐明", "混淆；弄混", "隐藏；隐瞒", "遗忘；忘记"]
+    },
+    {
+      "question": "jumble",
+      "americanPhonetic": "/ˈdʒʌmbl/",
+      "answer": "使混乱；混杂",
+      "options": ["使混乱；混杂", "整理；归类", "排列；排序", "挑选；筛选"]
+    },
+    {
+      "question": "knead",
+      "americanPhonetic": "/niːd/",
+      "answer": "揉；捏",
+      "options": ["揉；捏", "切；割", "煮；炖", "烤；烘焙"]
+    },
+    {
+      "question": "lurk",
+      "americanPhonetic": "/lɜːrk/",
+      "answer": "潜伏；埋伏",
+      "options": ["潜伏；埋伏", "出现；显现", "奔跑；逃窜", "停留；逗留"]
+    },
+    {
+      "question": "mutter",
+      "americanPhonetic": "/ˈmʌtər/",
+      "answer": "低声说；嘀咕",
+      "options": ["低声说；嘀咕", "大声喊；叫嚷", "交谈；聊天", "演讲；演说"]
+    },
+    {
+      "question": "nag",
+      "americanPhonetic": "/næɡ/",
+      "answer": "唠叨；催促",
+      "options": ["唠叨；催促", "鼓励；激励", "安慰；安抚", "表扬；赞扬"]
+    },
+    {
+      "question": "outlook",
+      "americanPhonetic": "/ˈaʊtlʊk/",
+      "answer": "观点；看法",
+      "options": ["观点；看法", "外貌；外表", "能力；技能", "性格；品性"]
+    },
+    {
+      "question": "peek",
+      "americanPhonetic": "/piːk/",
+      "answer": "偷看；窥视",
+      "options": ["偷看；窥视", "注视；凝视", "浏览；翻阅", "观察；查看"]
+    }
+  ],
+  [
+    {
+      "question": "plunge",
+      "americanPhonetic": "/plʌndʒ/",
+      "answer": "跳入；猛冲",
+      "options": ["跳入；猛冲", "缓慢行走", "轻轻坐下", "稳步攀登"]
+    },
+    {
+      "question": "quiver",
+      "americanPhonetic": "/ˈkwɪvər/",
+      "answer": "颤抖；抖动",
+      "options": ["颤抖；抖动", "保持稳定", "用力摇晃", "缓慢移动"]
+    },
+    {
+      "question": "radiate",
+      "americanPhonetic": "/ˈreɪdieɪt/",
+      "answer": "辐射；散发",
+      "options": ["辐射；散发", "吸收能量", "储存热量", "阻挡光线"]
+    },
+    {
+      "question": "sneak",
+      "americanPhonetic": "/sniːk/",
+      "answer": "偷偷摸摸地走",
+      "options": ["偷偷摸摸地走", "大步流星", "奔跑冲刺", "跳跃前进"]
+    },
+    {
+      "question": "tuck",
+      "americanPhonetic": "/tʌk/",
+      "answer": "塞进；卷起",
+      "options": ["塞进；卷起", "拉出；展开", "剪断；切除", "粘贴；固定"]
+    },
+    {
+      "question": "unearth",
+      "americanPhonetic": "/ʌnˈɜːrθ/",
+      "answer": "发掘；发现",
+      "options": ["发掘；发现", "埋藏；隐藏", "丢弃；抛弃", "保存；收藏"]
+    },
+    {
+      "question": "venture",
+      "americanPhonetic": "/ˈventʃər/",
+      "answer": "冒险；尝试",
+      "options": ["冒险；尝试", "谨慎回避", "坚决拒绝", "轻易放弃"]
+    },
+    {
+      "question": "wince",
+      "americanPhonetic": "/wɪns/",
+      "answer": "畏缩；退缩",
+      "options": ["畏缩；退缩", "勇敢面对", "主动出击", "坚持到底"]
+    },
+    {
+      "question": "yawn",
+      "americanPhonetic": "/jɔːn/",
+      "answer": "打哈欠",
+      "options": ["打哈欠", "打喷嚏", "咳嗽", "微笑"]
+    },
+    {
+      "question": "zip",
+      "americanPhonetic": "/zɪp/",
+      "answer": "拉上拉链；快速移动",
+      "options": ["拉上拉链；快速移动", "解开纽扣", "缓慢打开", "用力关闭"]
+    }
+  ],
+  [
+    {
+      "question": "abrupt",
+      "americanPhonetic": "/əˈbrʌpt/",
+      "answer": "突然的；意外的",
+      "options": ["突然的；意外的", "缓慢的；渐进的", "平稳的；持续的", "规律的；定期的"]
+    },
+    {
+      "question": "breeze",
+      "americanPhonetic": "/briːz/",
+      "answer": "微风；和风",
+      "options": ["微风；和风", "狂风；暴风", "大雨；暴雨", "大雪；暴雪"]
+    },
+    {
+      "question": "crush",
+      "americanPhonetic": "/krʌʃ/",
+      "answer": "压碎；压坏",
+      "options": ["压碎；压坏", "举起；抬起", "折叠；对折", "修补；修复"]
+    },
+    {
+      "question": "dusk",
+      "americanPhonetic": "/dʌsk/",
+      "answer": "黄昏；傍晚",
+      "options": ["黄昏；傍晚", "黎明；破晓", "中午；正午", "深夜；午夜"]
+    },
+    {
+      "question": "elbow",
+      "americanPhonetic": "/ˈelboʊ/",
+      "answer": "肘部；用肘推",
+      "options": ["肘部；用肘推", "膝盖；用膝顶", "手腕；用腕转", "脚踝；用踝踢"]
+    },
+    {
+      "question": "frost",
+      "americanPhonetic": "/frɔːst/",
+      "answer": "霜；结霜",
+      "options": ["霜；结霜", "雾；起雾", "露；结露", "云；多云"]
+    },
+    {
+      "question": "gaze",
+      "americanPhonetic": "/ɡeɪz/",
+      "answer": "凝视；注视",
+      "options": ["凝视；注视", "瞥视；扫过", "俯视；俯瞰", "仰视；仰望"]
+    },
+    {
+      "question": "huddle",
+      "americanPhonetic": "/ˈhʌdl/",
+      "answer": "挤在一起；蜷缩",
+      "options": ["挤在一起；蜷缩", "分散开来；分开", "笔直站立；直立", "平躺休息；横卧"]
+    },
+    {
+      "question": "ignite",
+      "americanPhonetic": "/ɪɡˈnaɪt/",
+      "answer": "点燃；引发",
+      "options": ["点燃；引发", "熄灭；扑灭", "冷却；降温", "冻结；结冰"]
+    },
+    {
+      "question": "jolt",
+      "americanPhonetic": "/dʒoʊlt/",
+      "answer": "猛震；颠簸",
+      "options": ["猛震；颠簸", "平稳移动；滑行", "缓慢上升；攀升", "快速下降；坠落"]
+    }
+  ],
+  [
+    {
+      "question": "knit",
+      "americanPhonetic": "/nɪt/",
+      "answer": "编织；针织",
+      "options": ["编织；针织", "缝纫；缝制", "裁剪；切割", "熨烫；平整"]
+    },
+    {
+      "question": "loom",
+      "americanPhonetic": "/luːm/",
+      "answer": "隐约出现；织布机",
+      "options": ["隐约出现；织布机", "清晰显现；明确", "快速消失；隐匿", "静止不动；停留"]
+    },
+    {
+      "question": "mumble",
+      "americanPhonetic": "/ˈmʌmbl/",
+      "answer": "含糊地说；咕哝",
+      "options": ["含糊地说；咕哝", "清晰表达；诉说", "大声呼喊；叫嚷", "轻声哼唱；歌唱"]
+    },
+    {
+      "question": "nestle",
+      "americanPhonetic": "/ˈnestl/",
+      "answer": "依偎；安卧",
+      "options": ["依偎；安卧", "远离；避开", "站立；直立", "奔跑；追逐"]
+    },
+    {
+      "question": "oblige",
+      "americanPhonetic": "/əˈblaɪdʒ/",
+      "answer": "迫使；帮忙",
+      "options": ["迫使；帮忙", "拒绝；推辞", "允许；许可", "阻止；阻拦"]
+    },
+    {
+      "question": "peel",
+      "americanPhonetic": "/piːl/",
+      "answer": "剥皮；剥落",
+      "options": ["剥皮；剥落", "清洗；冲刷", "烹饪；烧制", "品尝；咀嚼"]
+    },
+    {
+      "question": "quell",
+      "americanPhonetic": "/kwel/",
+      "answer": "平息；镇压",
+      "options": ["平息；镇压", "引发；激起", "加剧；恶化", "忽视；不理"]
+    },
+    {
+      "question": "ripple",
+      "americanPhonetic": "/ˈrɪpl/",
+      "answer": "涟漪；波动",
+      "options": ["涟漪；波动", "波涛；巨浪", "静止；平静", "冻结；结冰"]
+    },
+    {
+      "question": "slump",
+      "americanPhonetic": "/slʌmp/",
+      "answer": "暴跌；倒下",
+      "options": ["暴跌；倒下", "暴涨；上升", "稳定；不变", "跳跃；蹦跳"]
+    },
+    {
+      "question": "tug",
+      "americanPhonetic": "/tʌɡ/",
+      "answer": "拉；拖",
+      "options": ["拉；拖", "推；搡", "放；置", "提；举"]
+    }
+  ],
+  [
+    {
+      "question": "umpire",
+      "americanPhonetic": "/ˈʌmpaɪər/",
+      "answer": "裁判员；仲裁人",
+      "options": ["裁判员；仲裁人", "运动员；选手", "教练；指导", "观众；听众"]
+    },
+    {
+      "question": "vow",
+      "americanPhonetic": "/vaʊ/",
+      "answer": "发誓；誓言",
+      "options": ["发誓；誓言", "谎言；假话", "借口；托词", "建议；意见"]
+    },
+    {
+      "question": "wink",
+      "americanPhonetic": "/wɪŋk/",
+      "answer": "眨眼；使眼色",
+      "options": ["眨眼；使眼色", "皱眉；不满", "微笑；开心", "点头；同意"]
+    },
+    {
+      "question": "yell",
+      "americanPhonetic": "/jel/",
+      "answer": "大喊；叫嚷",
+      "options": ["大喊；叫嚷", "低语；呢喃", "哭泣；呜咽", "大笑；欢笑"]
+    },
+    {
+      "question": "zap",
+      "americanPhonetic": "/zæp/",
+      "answer": "快速移动；电击",
+      "options": ["快速移动；电击", "缓慢爬行；蠕动", "平稳漂浮；悬浮", "垂直降落；坠落"]
+    },
+    {
+      "question": "abide",
+      "americanPhonetic": "/əˈbaɪd/",
+      "answer": "遵守；忍受",
+      "options": ["遵守；忍受", "违反；违背", "忽视；不理", "忘记；遗忘"]
+    },
+    {
+      "question": "balk",
+      "americanPhonetic": "/bɔːlk/",
+      "answer": "犹豫；拒绝",
+      "options": ["犹豫；拒绝", "坚持；持续", "同意；认可", "主动；积极"]
+    },
+    {
+      "question": "clutch",
+      "americanPhonetic": "/klʌtʃ/",
+      "answer": "紧握；抓紧",
+      "options": ["紧握；抓紧", "松开；放开", "轻触；触碰", "挥舞；摆动"]
+    },
+    {
+      "question": "dwell",
+      "americanPhonetic": "/dwel/",
+      "answer": "居住；停留",
+      "options": ["居住；停留", "旅行；漫游", "工作；劳动", "学习；研究"]
+    },
+    {
+      "question": "ease",
+      "americanPhonetic": "/iːz/",
+      "answer": "减轻；舒适",
+      "options": ["减轻；舒适", "加重；痛苦", "增加；增多", "减少；降低"]
+    }
+  ],
+  [
+    {
+      "question": "fumble",
+      "americanPhonetic": "/ˈfʌmbl/",
+      "answer": "摸索；笨手笨脚地做",
+      "options": ["摸索；笨手笨脚地做", "熟练操作；灵巧完成", "快速处理；高效完成", "精准定位；准确找到"]
+    },
+    {
+      "question": "glide",
+      "americanPhonetic": "/ɡlaɪd/",
+      "answer": "滑行；滑翔",
+      "options": ["滑行；滑翔", "跳跃；蹦跳", "奔跑；冲刺", "攀爬；攀登"]
+    },
+    {
+      "question": "hinder",
+      "americanPhonetic": "/ˈhɪndər/",
+      "answer": "阻碍；妨碍",
+      "options": ["阻碍；妨碍", "帮助；协助", "促进；推动", "支持；拥护"]
+    },
+    {
+      "question": "inspect",
+      "americanPhonetic": "/ɪnˈspekt/",
+      "answer": "检查；视察",
+      "options": ["检查；视察", "忽视；无视", "隐藏；隐瞒", "损坏；破坏"]
+    },
+    {
+      "question": "jostle",
+      "americanPhonetic": "/ˈdʒɑːsl/",
+      "answer": "推挤；撞",
+      "options": ["推挤；撞", "搀扶；扶持", "远离；避开", "保护；守护"]
+    },
+    {
+      "question": "latch",
+      "americanPhonetic": "/lætʃ/",
+      "answer": "门闩；闩上",
+      "options": ["门闩；闩上", "门锁；打开", "窗户；推开", "墙壁；修补"]
+    },
+    {
+      "question": "muffle",
+      "americanPhonetic": "/ˈmʌfl/",
+      "answer": "使声音降低；裹住",
+      "options": ["使声音降低；裹住", "放大声音；传播", "解开包裹；展开", "暴露在外；敞开"]
+    },
+    {
+      "question": "nudge",
+      "americanPhonetic": "/nʌdʒ/",
+      "answer": "轻推；提醒",
+      "options": ["轻推；提醒", "重击；撞击", "忽视；不理", "忘记；遗忘"]
+    },
+    {
+      "question": "outfit",
+      "americanPhonetic": "/ˈaʊtfɪt/",
+      "answer": "全套服装；装备",
+      "options": ["全套服装；装备", "单件衣物；服饰", "食品；食物", "工具；器具"]
+    },
+    {
+      "question": "paddle",
+      "americanPhonetic": "/ˈpædl/",
+      "answer": "桨；用桨划",
+      "options": ["桨；用桨划", "帆；扬帆", "锚；抛锚", "舵；掌舵"]
+    }
   ]
 ]
