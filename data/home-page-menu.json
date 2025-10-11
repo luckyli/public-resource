@@ -37,7 +37,7 @@
       {
         "icon": "fa-comments",
         "title": "搞笑段子",
-        "show": true,
+        "show": false,
         "url": "/pages/duanzi/index"
       },
       {
