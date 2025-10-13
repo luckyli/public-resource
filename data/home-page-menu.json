@@ -162,6 +162,12 @@
         "title": "猜单词",
         "show": true,
         "url": "/pages/english_vocab_quizzes/index"
+      },
+      {
+        "icon": "fa-book",
+        "title": "猜常识",
+        "show": true,
+        "url": "/pages/humanities_history_questions/index"
       }
     ]
   },
