@@ -106,6 +106,12 @@
         "title": "图片压缩",
         "show": true,
         "url": "/pages/photo_compressor/index"
+      },
+      {
+        "icon": "fa-file-image",
+        "title": "图片旋转",
+        "show": true,
+        "url": "/pages/photo_rotator/index"
       }
     ]
   },
