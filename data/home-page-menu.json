@@ -112,6 +112,12 @@
         "title": "图片旋转",
         "show": true,
         "url": "/pages/photo_rotator/index"
+      },
+      {
+        "icon": "fa-file-image",
+        "title": "图片加水印",
+        "show": true,
+        "url": "/pages/photo_watermark/index"
       }
     ]
   },
