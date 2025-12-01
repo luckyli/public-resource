@@ -97,7 +97,7 @@
       },
       {
         "icon": "fa-file-image",
-        "title": "简单头像生成",
+        "title": "头像生成",
         "show": true,
         "url": "/pages/avatar_generator/index"
       },
