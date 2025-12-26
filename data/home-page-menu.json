@@ -188,7 +188,7 @@
     "show": true,
     "children": [
       {
-        "icon": "fa-pie-chart",
+        "icon": "fa-spinner",
         "title": "今天吃什么",
         "show": true,
         "url": "/pages/what_to_eat/index"
