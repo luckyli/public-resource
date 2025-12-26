@@ -191,7 +191,7 @@
         "icon": "fa-spinner",
         "title": "帮我做选择",
         "show": true,
-        "url": "/pages/what_to_eat/index"
+        "url": "/pages/what_to_choose/index"
       },
       {
         "icon": "fa-calculator",
